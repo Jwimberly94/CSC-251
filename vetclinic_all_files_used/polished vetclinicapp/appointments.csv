@@ -1,0 +1,4 @@
+AppointmentID,PetName,OwnerName,OwnerPhone,AppointmentTime,ServiceType,Veterinarian,Status,Notes
+A0001,Max,John Smith,5551234567,2026-03-01 10:00,Checkup,Sarah Johnson,CHECKED_IN,""
+A0002,Bella,Jane Doe,5555678901,2026-03-01 14:30,Vaccination,Sarah Johnson,SCHEDULED,""
+A0003,Charlie,Bob Wilson,5559012345,2026-03-02 11:00,Surgery,Michael Chen,SCHEDULED,""
