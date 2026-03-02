@@ -1,7 +1,0 @@
-ServiceID,ServiceName,DurationMinutes,Price,Description
-S001,Checkup,30,50.00,"General health examination"
-S002,Vaccination,20,35.00,"Routine vaccination"
-S003,Surgery,120,500.00,"Surgical procedures"
-S004,Dental Cleaning,60,150.00,"Professional dental cleaning"
-S005,Grooming,45,60.00,"Full grooming service"
-S006,Emergency,60,200.00,"Emergency care"
