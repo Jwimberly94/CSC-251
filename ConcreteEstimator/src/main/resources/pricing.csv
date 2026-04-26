@@ -1,0 +1,15 @@
+# Concrete & Fence Estimator – Default Pricing
+# Format: key,value
+concrete_price_per_cy,150.0
+concrete_labor_rate,35.0
+concrete_waste_pct,8.0
+rebar_cost_per_sqft,0.65
+fence_fabric_per_lf,4.50
+fence_post_unit,18.00
+fence_walk_gate,150.00
+fence_double_gate,450.00
+fence_sliding_gate,800.00
+fence_gate_motor,600.00
+fence_top_treatment_per_lf,1.20
+fence_post_concrete_bag,7.00
+fence_labor_rate,30.0
